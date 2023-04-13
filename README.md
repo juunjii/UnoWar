@@ -31,7 +31,7 @@ one player has 10 points (wins 10 total rounds).
 A single round of Unowar starts by dealing one card from the deck and placing it in the “card pile” between the two players. Then players take turns playing a card into the card pile from their hand. Cards can only be played if they meet one or both of the following conditions:
 
 (1) same suit as the card in the middle (suit is the symbol on the card: clubs, spades, diamonds,
-or hearts)
+or hearts);
 (2) equal or higher rank than the card in the middle (rank is the number of the card: aces, twos,
 and threes are low, 10, jacks, queens, and kings are high, and so-forth.)
 
@@ -42,8 +42,8 @@ So a game of uno war would look like this:
 2. Deal two 5-card hands two player 1 and player 2
 3. Player 1 plays first in the first round
 4. while no player has won 10 rounds play one round:
-(a) deal a card to start the card pile in the middle
-(b) Starting with player 1 in the first round, or whoever won the last round in all other rounds, players take turns picking who goes first.
-(c) if a player has no legal cards, that player loses the round, and the other player wins. The other player will have to go first next round.
+(a) deal a card to start the card pile in the middle;
+(b) Starting with player 1 in the first round, or whoever won the last round in all other rounds, players take turns picking who goes first;
+(c) if a player has no legal cards, that player loses the round, and the other player wins. The other player will have to go first next round;
 (d) Discard the card pile in the middle.
 5. Whoever won 10 rounds is the winner of the game
