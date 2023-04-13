@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo contains the game of "UnoWarMatch", which is a mixture of the popular game Uno, and War. However, instead of being a game played against other players, this program focuses on testing several simple AIs against each other (and itself). Each of the AIs has their respective strategies to play the game, thus the AI who has the highest winrate would indicate that its strategy would work best. 
+This repo contains the game of "UnoWar", which is a mixture of the popular game Uno, and War. However, instead of being a game played against other players, this program focuses on testing several simple AIs against each other (and itself). Each of the AIs has their respective strategies to play the game, thus the AI who has the highest winrate would indicate that its strategy would work best. 
 
 ## The AIs' Strategy 
 
